@@ -72,7 +72,7 @@ body {
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   position: absolute;
-  top: 70%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
